@@ -1,0 +1,1 @@
+#This is the cli file for the fastapi application. We can use this to add custom commands.
